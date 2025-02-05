@@ -23,7 +23,7 @@
 			},
 			{
 				"text": "Take action",
-				"uniques": ["Comment [Use this as an opportunity to show your commitment to security]", "Comment [+1 Happiness in cities with a garrison]", "Comment [-1 Happiness in cities without a garrison]", "[+2 Happiness] [in all cities with a garrison] <hidden from users>", "[-1 Happiness] [in all cities] <hidden from users>"]
+				"uniques": ["Comment [Use this as an opportunity to show your commitment to security]", "Comment [+1 Happiness in cities with a garrison]", "Comment [-1 Happiness in cities without a garrison]", "[+2 Happiness] [in all cities with a garrison]", "[-1 Happiness] [in all cities]"]
 			}
 		]
 	}
