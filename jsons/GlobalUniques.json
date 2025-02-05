@@ -1,6 +1,6 @@
 {
     "name": "Global uniques",
     "uniques": [
-        "Triggers a [Raider rumours 1] event"
+        "Triggers a [Raider rumours 1] event <upon founding a city>"
     ]
 }
