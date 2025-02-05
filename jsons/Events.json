@@ -1,1 +1,30 @@
-
+[
+	{
+		"name": "Raider rumours 1",
+		"text": "There have been rumours of a highly organized raider group wreaking havoc in the wastes using old world war tactics.",
+		"choices": [
+			{
+				"text": "We shall be vigilant",
+				"uniques": ["Comment [Nothing happens]"]
+			}
+		]
+	},
+	{
+		"name": "Raider rumours 2",
+		"text": "Foreign merchants came to town with stories of a highly capable raider group whose numbers are counted in the thousands. Our people are unnerved.",
+		"choices": [
+			{
+				"text": "Warn the merchants to stop spreading these rumours",
+				"uniques": ["Comment [Our people will forget about this soon enough]"]
+			},
+			{
+				"text": "Let them be",
+				"uniques": ["Comment [These rumours will continue to spread, they may cause unrest]"]
+			},
+			{
+				"text": "Take action",
+				"uniques": ["Comment [Use this as an opportunity to show your commitment to security]", "Comment [+1 Happiness in cities with a garrison]", "Comment [-1 Happiness in cities without a garrison]", "[+2 Happiness] [in all cities with a garrison] <hidden from users>", "[-1 Happiness] [in all cities] <hidden from users>"]
+			}
+		]
+	}
+]
